@@ -1,0 +1,3 @@
+auto-bridge contains the kernel module for LS platform to enable 
+the automatic offload of bridge flows to Forward engine.
+
